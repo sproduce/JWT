@@ -1,6 +1,6 @@
 {
     "name": "sproduce/jwt",
-    "type":"library",
+    "type": "library",
     "description": "A simple library JSON Web Tokens (JWT) in PHP.",
     "homepage": "https://github.com/sproduce/jwt",
     "keywords": [
